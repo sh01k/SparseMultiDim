@@ -1,4 +1,4 @@
-# SparseMultiDim
+SparseMultiDim
 ==
 ## Description
 A MATLAB script for sparse representation using multidimensional mixed-norm penalty
